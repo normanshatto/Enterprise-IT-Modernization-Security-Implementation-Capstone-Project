@@ -1,4 +1,4 @@
-Enterprise IT Modernization & Security Implementation
+
   This capstone project simulates an end-to-end enterprise IT modernization for a mid-sized engineering organization. The project addresses outdated hardware, unmanaged network infrastructure, and weak   identity security by designing and implementing a secure, scalable, and centrally managed IT environment.
   
 Project Overview
